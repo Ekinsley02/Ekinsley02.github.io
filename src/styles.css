@@ -23,11 +23,11 @@ main > h1 {
 /* styles.css */
 @font-face {
   font-family: 'CustomFont';
-  src: url('path/to/your-custom-font.woff2') format('woff2');
+  src: url('https://github.com/Ekinsley02/Ekinsley02.github.io/blob/1ce4c2fa503c9e7c092c20623a2f52be7726a991/src/Roboto-Black.ttf') format('truetype');
 }
 
 .custom-font {
-  font-family: 'CustomFont', sans-serif; /* Use your custom font */
+  font-family: 'CustomFont', Roboto-Black; /* Use your custom font */
   font-size: 24px;
 }
 
